@@ -1,4 +1,4 @@
-Predicting Customer Churn-in Telecom Industry
+                Predicting Customer Churn-in Telecom Industry
 Predicted customer churn to enhance retention strategies in the telecom sector.
 Created interactive dashboard.
 Utilized techniques to analyze customer data and predict churn.
